@@ -29,6 +29,7 @@
     
 5. 发布: 本地调试成功后，我们需要发布到npm上面
    >npm: [URL](https://www.npmjs.com/)
+  
      1. 本地登陆 npm login //输入以下命令，会提示输入用户名、密码、邮箱，这些都是注册时填写过的。    
      2. npm publish // package.json同级目录下执行
      3. TODO: package.json内的name即为我们的包名称 version为版本（每次publish都要修改version为更大）
